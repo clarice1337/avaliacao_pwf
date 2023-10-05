@@ -1,0 +1,28 @@
+    h1 {
+        background-color: black;
+        color: rgb(69, 255, 184);
+        text-align: center;
+
+}
+    h2{
+        background-image:linear-gradient(to left, rgb(137, 255, 220), rgb(50, 73, 175));
+
+    }
+
+#pg1{
+    text-align: center;
+}
+#pg2{
+    text-align: right;
+}
+#pg3{
+    text-align: justify;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+}
+#imagebg{
+    background-image: url(timeantigo.jpg);
+}
